@@ -1,11 +1,11 @@
 # Socials
 <p align = "center">
     <a href = "https://www.instagram.com/imabrokemff">
-    "Instagram"
+    • Instagram
     <a>
 </p>
 <p align = "center">
     <a href = "https://www.snapchat.com/add/vvnmpire?share_id=RjdDRjM5&locale=en_US">
-    "Snapchat"
+    • Snapchat
     <a>
 </p>
