@@ -1,10 +1,11 @@
 # Socials
-</p>
+<p align = "center">
     <a href = "https://www.instagram.com/imabrokemff">
-    <img src = "https://raw.githubusercontent.com/15yrold/15yrold/main/instagram_icon.png"/>
+    "Instagram"
     <a>
 </p>
+<p align = "center">
     <a href = "https://www.snapchat.com/add/vvnmpire?share_id=RjdDRjM5&locale=en_US">
-    <img src = "https://raw.githubusercontent.com/15yrold/15yrold/main/snapchat_icon.png"/>
+    "Snapchat"
     <a>
 </p>
