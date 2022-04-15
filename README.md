@@ -1,5 +1,5 @@
 # Socials
-<p align = "center">
+</p>
     Instagram; 
     <a href = "https://www.instagram.com/imabrokemff">
     <img src = "https://raw.githubusercontent.com/15yrold/15yrold/main/instagram_icon.png"/>
