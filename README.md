@@ -1,6 +1,6 @@
 # Socials
 <p align = "center">
-    <a href = "https://www.instagram.com/imabrokemff">
+    <a href = "https://www.instagram.com/rpleceme">
     • Instagram
     <a>
 </p>
