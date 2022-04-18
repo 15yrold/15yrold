@@ -9,3 +9,8 @@
     • Snapchat
     <a>
 </p>
+<p align = "center">
+    <a href = "https://discord.com/users/950897972638519386/profile">
+    • Discord
+    <a>
+</p>
