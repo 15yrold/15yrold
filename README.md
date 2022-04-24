@@ -1,6 +1,6 @@
 # Profile visits
 <p align = "center">
-    <img src = "https://gpvc.arturio.dev/15yrold&color=36393f"/>
+    <img src = "https://komarev.com/ghpvc/?username=15yrold&color=36393f"/>
 </p>
 
 # Socials
