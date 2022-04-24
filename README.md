@@ -1,8 +1,6 @@
 # Profile visits
 <p align = "center">
-    <a href = "https://github.com/15yrold/Profile-visits-booster">
     <img src = "https://komarev.com/ghpvc/?username=15yrold&color=36393f"/>
-    <a>
 </p>
 
 # Socials
