@@ -1,6 +1,6 @@
 # Profile visits
 <p align = "center">
-    <img src = "https://gpvc.arturio.dev/15yrold"/>
+    <img src = "https://gpvc.arturio.dev/15yrold&color=36393f"/>
 </p>
 
 # Socials
