@@ -14,7 +14,8 @@
     • Discord
     <a>
 </p>
+      
 # Profile visits
 <p align = "center">
-    [](https://gpvc.arturio.dev/6nz)
+    <img src = "https://gpvc.arturio.dev/15yrold"/>
 </p>
