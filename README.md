@@ -1,3 +1,7 @@
+# Profile visits
+<p align = "center">
+    <img src = "https://gpvc.arturio.dev/15yrold"/>
+</p>
 # Socials
 <p align = "center">
     <a href = "https://www.instagram.com/rplceme">
@@ -13,9 +17,4 @@
     <a href = "https://discord.com/users/950897972638519386/profile">
     • Discord
     <a>
-</p>
-      
-# Profile visits
-<p align = "center">
-    <img src = "https://gpvc.arturio.dev/15yrold"/>
 </p>
