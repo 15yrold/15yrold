@@ -1,7 +1,3 @@
-# Status
-* \\Inactive
-* 05/19/22
-    
 # Profile visits
 <p align = "center">
     <img src = "https://komarev.com/ghpvc/?username=15yrold&color=36393f"/>
